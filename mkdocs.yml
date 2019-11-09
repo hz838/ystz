@@ -9,8 +9,12 @@ nav:
         - '文物': 'travel/wenwu.md'
         - '地质': 'travel/dizhi.md'
     - '人与社会':
-        - '发展': 'people/development.md'
-        - '心理': 'people/psychology.md'
+        - '发展与教育': 'people/development.md'
+        - '心理与沟通': 'people/psychology.md'
         - '生理': 'people/health.md'
         - '社会': 'people/society.md'
         - '政经': 'people/econ.md'
+    - '人文':
+        - '历史': 'humanity/history.md'
+        - '传统文化': 'humanity/tradition.md'
+        - '哲学': 'humanity/philosophy.md'

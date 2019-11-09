@@ -32,15 +32,17 @@
 * [社会与生活](people/society.md)
 * [政治经济与金融](people/econ.md)
 
-### 其他内容还没安排好
-
-<!-- ### 人文知识
+### 人文知识
 建设中
 
 * [历史](humanity/history.md)
 * [传统文化](humanity/tradition.md)
 * [哲学](humanity/philosophy.md)
 
+### 其他内容还没设置好
+
+
+<!-- 
 ### 自然知识
 建设中
 
@@ -52,5 +54,5 @@
 建设中
 
 * [交通](life/transportation.md)
-* [消费与传播](life/consumption.md) -->
-
+* [消费与传播](life/consumption.md)
+ -->
